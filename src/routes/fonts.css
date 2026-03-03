@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "W95font";
+  src:
+    url("/w95font/w95font.woff2") format("woff2"),
+    url("/w95font/w95font.woff") format("woff");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "W95font";
+  src:
+    url("/w95font/w95font-bold.woff2") format("woff2"),
+    url("/w95font/w95font-bold.woff") format("woff");
+  font-weight: bold;
+}
