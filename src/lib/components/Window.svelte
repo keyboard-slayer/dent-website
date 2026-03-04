@@ -40,6 +40,7 @@
     border-t-2 border-t-[#808080]
     border-r-2 border-r-[#dfdfdf]
     border-b-2 border-b-[#dfdfdf]
+    pl-3 pt-2 flex flex-wrap
     shadow-[inset_1px_1px_#000,inset_-1px_-1px_#fff]"
   >
     {@render children()}
